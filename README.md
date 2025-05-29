@@ -13,3 +13,4 @@ Minimal and responsive design
 Real-time stopwatch display
 Start, pause, and reset buttons
 Lap time listing
+
